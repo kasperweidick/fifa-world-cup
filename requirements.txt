@@ -6,8 +6,8 @@ attrs=19.3.0=py_0
 backcall=0.1.0=py38_0
 beautifulsoup4=4.8.2=py38_0
 blas=1.0=mkl
-bleach=3.1.0=py_0
-ca-certificates=2020.1.1=0
+bleach=3.1.1=py_0
+ca-certificates=2019.11.28=hecc5488_0
 certifi=2019.11.28=py38_0
 cycler=0.10.0=py38_0
 dbus=1.13.12=h90a0687_0
@@ -58,7 +58,7 @@ ncurses=6.2=h0a44026_0
 notebook=6.0.3=py38_0
 numpy=1.18.1=py38h7241aed_0
 numpy-base=1.18.1=py38h6575580_1
-openssl=1.1.1d=h1de35cc_4
+openssl=1.1.1d=h0b31af3_0
 pandas=1.0.1=py38h6c726b0_0
 pandoc=2.2.3.2=0
 pandocfilters=1.4.2=py38_1
